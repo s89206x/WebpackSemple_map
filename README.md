@@ -10,7 +10,7 @@
 2. Redux
 3. Google map
 4. Webpack
-
+ 
 
 ## Deploy Static Page
 
